@@ -29,6 +29,9 @@ struct bio itachi = {
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![LineageOS](https://img.shields.io/badge/LineageOS-80CB6F?style=for-the-badge&logo=lineageos&logoColor=white)
+![GrapheneOS](https://img.shields.io/badge/GrapheneOS-2C5F2D?style=for-the-badge&logo=grapheneos&logoColor=white)
 
 ### **Development**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
