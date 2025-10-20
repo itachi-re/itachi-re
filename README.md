@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Itachi
+# 👋 hello there!
 
 > *"Observation is the first step toward understanding."*
 
