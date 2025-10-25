@@ -24,14 +24,14 @@ struct bio itachi = {
 ## ⚙️ Tech Stack & Environment
 
 ### **Systems & Platforms**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=openSUSE&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![LineageOS](https://img.shields.io/badge/LineageOS-80CB6F?style=for-the-badge&logo=lineageos&logoColor=white)
-![GrapheneOS](https://img.shields.io/badge/GrapheneOS-2C5F2D?style=for-the-badge&logo=grapheneos&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![openSUSE](https://img.shields.io/badge/openSUSE-0B722C?style=for-the-badge&logo=openSUSE&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0D47A1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0E4C75?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0B3D91?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Android](https://img.shields.io/badge/Android-0B8043?style=for-the-badge&logo=android&logoColor=white)
+![LineageOS](https://img.shields.io/badge/LineageOS-005F3C?style=for-the-badge&logo=lineageos&logoColor=80CB6F)
+![GrapheneOS](https://img.shields.io/badge/GrapheneOS-1A1A1A?style=for-the-badge&logo=grapheneos&logoColor=00FF9C)
 
 ### **Development**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
