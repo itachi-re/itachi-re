@@ -180,5 +180,7 @@ systemctl --user start productivity.service
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itachi-re&color=58a6ff&style=for-the-badge)
+
 ![MoeCounter](https://count.getloli.com/@itachi?name=itachi&theme=rule34&padding=5&offset=30&align=center&scale=2&pixelated=0&darkmode=auto&prefix=9876)
+
 </div>
