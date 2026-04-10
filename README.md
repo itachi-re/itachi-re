@@ -111,7 +111,7 @@ struct learning_path {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itachi-re&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-![Gold & Black Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itachi-re&bg_color=000000&color=FFD700&line=FFD700&point=FFD700&hide_border=true)
+![Gold Activity Graph (Transparent BG)](https://github-readme-activity-graph.vercel.app/graph?username=itachi-re&bg_color=00000000&color=FFD700&line=FFD700&point=FFD700&hide_border=true)
 
 </div>
 
