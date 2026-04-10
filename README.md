@@ -112,13 +112,13 @@ struct learning_path {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itachi-re&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 </div>
 <div align="center" style="
-  filter: drop-shadow(0 0 8px #FFD700) drop-shadow(0 0 3px #FFAA00);
-  border-radius: 20px;
-  background: radial-gradient(circle at center, rgba(0,0,0,0.08), transparent);
-  padding: 12px;
   display: inline-block;
+  background: radial-gradient(circle at center, rgba(0,0,0,0.2), transparent);
+  border-radius: 20px;
+  padding: 12px;
+  box-shadow: 0 0 12px rgba(255, 215, 0, 0.6), 0 0 4px rgba(255, 170, 0, 0.8);
 ">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-re&bg_color=00000000&color=FFD700&line=FFD700&point=FFC125&hide_border=true" alt="Gold Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-re&bg_color=0d1117&color=FFD700&line=FFD700&point=FFC125&hide_border=true" alt="Gold Activity Graph" />
 </div>
 
 
