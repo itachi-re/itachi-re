@@ -110,10 +110,18 @@ struct learning_path {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi-re&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itachi-re&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-![Gold Activity Graph (Transparent BG)](https://github-readme-activity-graph.vercel.app/graph?username=itachi-re&bg_color=00000000&color=FFD700&line=FFD700&point=FFD700&hide_border=true)
-
 </div>
+<div align="center" style="
+  filter: drop-shadow(0 0 8px #FFD700) drop-shadow(0 0 3px #FFAA00);
+  border-radius: 20px;
+  background: radial-gradient(circle at center, rgba(0,0,0,0.08), transparent);
+  padding: 12px;
+  display: inline-block;
+">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-re&bg_color=00000000&color=FFD700&line=FFD700&point=FFC125&hide_border=true" alt="Gold Activity Graph" />
+</div>
+
+
 
 ---
 
