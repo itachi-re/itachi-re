@@ -221,9 +221,9 @@ echo "Automation should make you faster, not dependent."
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itachi-re&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats-itachi-re.vercel.app/api?username=itachi-re&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi-re&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-itachi-re.vercel.app/api/top-langs/?username=itachi-re&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itachi-re&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
