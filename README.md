@@ -1,159 +1,30 @@
-# 👋 hello there!
-
-> *"Observation is the first step toward understanding."*
-
----
-
-## 🧩 About Me
-
-```c
-#include <sys/student.h>
-
-struct bio itachi = {
-    .focus = {"systems", "reverse_engineering", "networking"},
-    .exploring = {"linux_internals", "c_programming", "low_level"},
-    .philosophy = "build_minimal_clean_efficient",
-    .current_environment = {"openSUSE", "Kali", "Arch"}
-};
-```
-
-**Systems enthusiast** passionate about understanding how things work from the ground up. I believe in clean, purposeful code and transparent systems.
-
----
-
-## ⚙️ Tech Stack & Environment
-
-### **Systems & Platforms**
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![openSUSE](https://img.shields.io/badge/openSUSE-0B722C?style=for-the-badge&logo=openSUSE&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-0D47A1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0E4C75?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0B3D91?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Android](https://img.shields.io/badge/Android-0B8043?style=for-the-badge&logo=android&logoColor=white)
-![LineageOS](https://img.shields.io/badge/LineageOS-005F3C?style=for-the-badge&logo=lineageos&logoColor=80CB6F)
-![GrapheneOS](https://img.shields.io/badge/GrapheneOS-1A1A1A?style=for-the-badge&logo=grapheneos&logoColor=00FF9C)
-
-### **Development**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-### **Workflow**
-| Component | Tools |
-|-----------|-------|
-| **Terminal** | `Ghostty` • `Konsole` • `Alacritty` |
-| **Shell** | `Zsh` • `Bash` |
-| **Desktop** | `Hyprland` • `Sway` • `KDE Plasma` |
-| **System** | `rEFInd` • `Btrfs` • `ext4` |
-| **Tools** | `Git` • `Pywal` • `Custom Scripts` |
-
----
-
-## 🧠 Currently Learning
-
-```bash
-$ cat ./learning_goals.txt
-→ Linux System Programming
-→ Network Protocol Analysis  
-→ Wayland Compositor Internals
-→ Low-level Performance Optimization
-→ Binary Exploitation & Reverse Engineering
-```
-
----
-
-## 🗂️ Featured Projects
-
-### 🔧 [**dotfiles**](https://github.com/itachi-re/dotfiles)
-*Complete Linux environment configuration*
-```yaml
-includes:
-  - terminal: ghostty, konsole, alacritty
-  - wm: hyprland, sway
-  - de: kde_plasma
-  - theming: pywal
-  - shell: zsh
-status: production_ready
-```
-
-### 📚 [**notes-c**](https://github.com/itachi-re/notes-c)
-*Structured C programming knowledge base*
-```c
-// Organized learning approach
-struct learning_path {
-    char *topic;
-    int depth;
-    bool practical_examples;
-};
-```
-
-### ⚡ [**scripts**](https://github.com/itachi-re/scripts)
-*System automation utilities*
-```bash
-#!/usr/bin/env zsh
-# Purpose-driven automation
-# - File organization
-# - Workflow optimization  
-# - System maintenance
-```
-
----
-
-## 📊 Development Insights
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itachi-re&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi-re&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itachi-re&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-![Gold Activity Graph (Transparent BG)](https://github-readme-activity-graph.vercel.app/graph?username=itachi-re&bg_color=00000000&color=FFD700&line=FFD700&point=FFD700&hide_border=true)
+```
+██╗████████╗ █████╗  ██████╗██╗  ██╗██╗
+██║╚══██╔══╝██╔══██╗██╔════╝██║  ██║██║
+██║   ██║   ███████║██║     ███████║██║
+██║   ██║   ██╔══██║██║     ██╔══██║██║
+██║   ██║   ██║  ██║╚██████╗██║  ██║██║
+╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝
+```
 
 </div>
 
----
-
-## 🧭 Development Philosophy
-
-> *"If you can't explain it clearly, you don't understand it yet."*
-
-```python
-class Philosophy:
-    principles = [
-        "Precision over decoration - Every line has purpose",
-        "Transparency - Systems should be understandable",
-        "Documentation - Knowledge should be accessible",
-        "Iteration - Constant refinement and improvement"
-    ]
-    
-    @staticmethod
-    def apply():
-        return "minimal + focused + consistent"
-```
-
----
-
-## 🔧 System Details
-
 ```bash
-# Current Setup
-OS:        openSUSE Tumbleweed | Arch Linux | Kali Linux
-Kernel:    Linux 6.x
-Shell:     Zsh (with custom configs)
-WM/DE:     Hyprland, Sway, KDE Plasma
-Terminal:  Ghostty, Konsole, Alacritty
-Editor:    Neovim
+$ whoami
+itachi — systems enthusiast, low-level explorer, terminal dweller
+
+$ uptime
+always learning · always building · always questioning
+
+$ uname -a
+Linux mind 7.x #1 SMP x86_64 | philosophy: minimal, focused, consistent
 ```
-
----
-
-## 📫 Connect
 
 <div align="center">
+
+*"Observation is the first step toward understanding."*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/itachi-re)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/itachi_re)
@@ -166,21 +37,289 @@ Editor:    Neovim
 
 ---
 
-<div align="center">
+## ▸ `init: loading identity...`
 
-### *"Minimal. Focused. Consistent."*
+```c
+/* itachi.h — core identity */
+#include <sys/student.h>
+#include <philosophy.h>
+#include <patience.h>
 
-```bash
-systemctl --user start productivity.service
-# Status: ██████████ 100% operational
+typedef struct {
+    const char  *handle;
+    const char  *role;
+    char        *focus[4];
+    char        *exploring[5];
+    char        *envs[3];
+    bool         builds_minimal;
+    bool         reads_source;
+} identity_t;
+
+static const identity_t self = {
+    .handle       = "itachi",
+    .role         = "systems enthusiast · low-level explorer",
+    .focus        = {
+        "systems_programming",
+        "reverse_engineering",
+        "network_internals",
+        "linux_kernel"
+    },
+    .exploring    = {
+        "wayland_compositor_internals",
+        "binary_exploitation",
+        "network_protocol_analysis",
+        "c_systems_programming",
+        "low_level_performance"
+    },
+    .envs         = { "openSUSE_Tumbleweed", "Arch_Linux", "Kali_Linux" },
+    .builds_minimal = true,
+    .reads_source   = true,   /* always */
+};
+
+/* Philosophy: if you can't explain it simply,
+   you don't understand it deeply enough yet. */
 ```
 
-**💭 "The quieter you become, the more you can hear."**
+I live at the intersection of **understanding** and **building** — where reading source code is research, the terminal is home, and clarity of thought is the highest form of craftsmanship.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=itachi-re&color=58a6ff&style=for-the-badge)
+## ▸ `lspci: environment`
 
+### Platforms & OS
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![openSUSE](https://img.shields.io/badge/openSUSE-0B722C?style=for-the-badge&logo=openSUSE&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0D47A1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0E4C75?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0B3D91?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Android](https://img.shields.io/badge/Android-0B8043?style=for-the-badge&logo=android&logoColor=white)
+![LineageOS](https://img.shields.io/badge/LineageOS-005F3C?style=for-the-badge&logo=lineageos&logoColor=80CB6F)
+![GrapheneOS](https://img.shields.io/badge/GrapheneOS-1A1A1A?style=for-the-badge&logo=grapheneos&logoColor=00FF9C)
+
+### Languages & Tools
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### Daily Driver Stack
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  SYSTEM CONFIGURATION                                   │
+├──────────────────┬──────────────────────────────────────┤
+│  OS              │  openSUSE Tumbleweed · Arch · Kali   │
+│  Kernel          │  Linux 6.x (mainline)                │
+│  Shell           │  Zsh  ·  Bash                        │
+│  WM / DE         │  Hyprland  ·  Sway  ·  KDE Plasma    │
+│  Terminal        │  Ghostty  ·  Konsole  ·  Alacritty   │
+│  Editor          │  Neovim  (lua-configured)            │
+│  Bootloader      │  rEFInd                              │
+│  Filesystem      │  Btrfs  ·  ext4                      │
+│  Theming         │  Pywal  ·  Custom Scripts            │
+└──────────────────┴──────────────────────────────────────┘
+```
+
+---
+
+## ▸ `cat ./learning_goals.txt`
+
+```
+[ACTIVE MODULES]
+
+  ► Linux System Programming ........................... [████████░░] 80%
+  ► Network Protocol Analysis .......................... [██████░░░░] 60%
+  ► Wayland Compositor Internals ....................... [████░░░░░░] 40%
+  ► Binary Exploitation & Reverse Engineering .......... [█████░░░░░] 50%
+  ► Low-level Performance Optimization ................. [███████░░░] 70%
+
+[APPROACH]
+  → Read the source, not just the docs
+  → Break it apart, understand every layer
+  → Build something minimal that proves you get it
+  → Document what you learn for the next version of yourself
+```
+
+---
+
+## ▸ `ls -la ./projects`
+
+<details>
+<summary><b>🔧 dotfiles</b> — <i>Complete Linux environment, version-controlled life</i></summary>
+
+```yaml
+repo:     github.com/itachi-re/dotfiles
+status:   production_ready
+
+includes:
+  terminal:    ghostty · konsole · alacritty
+  wm:          hyprland · sway
+  de:          kde_plasma
+  editor:      neovim (full lua config)
+  theming:     pywal (dynamic palette generation)
+  shell:       zsh (custom rc, aliases, functions)
+
+philosophy: >
+  A system should feel like an extension of thought.
+  Every config line has a reason. Nothing is there by default.
+```
+
+</details>
+
+<details>
+<summary><b>📚 notes-c</b> — <i>Structured C programming knowledge base</i></summary>
+
+```c
+/*
+ * notes-c — because reading manuals isn't enough.
+ * repo: github.com/itachi-re/notes-c
+ *
+ * Organized from first principles.
+ * Every concept comes with working code.
+ * Every abstraction is traced back to the metal.
+ */
+
+struct learning_path {
+    char  *topic;
+    int    depth;        /* 1 = surface, 5 = kernel land */
+    bool   practical_examples;
+    bool   compiled_and_tested;
+};
+
+/* Status: ongoing — knowledge doesn't have a finish line */
+```
+
+</details>
+
+<details>
+<summary><b>⚡ scripts</b> — <i>System automation that earns its place</i></summary>
+
+```bash
+#!/usr/bin/env zsh
+# repo: github.com/itachi-re/scripts
+#
+# Rule: a script exists only if it saves real time.
+# No bloat. No magic. Every line is readable.
+#
+# Areas:
+#   - File organization & cleanup
+#   - Workflow acceleration
+#   - System maintenance & health checks
+#   - Environment bootstrapping
+
+echo "Automation should make you faster, not dependent."
+```
+
+</details>
+
+---
+
+## ▸ `htop: activity`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itachi-re&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi-re&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itachi-re&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itachi-re&bg_color=00000000&color=FFD700&line=FFD700&point=FFD700&hide_border=true)
+
+</div>
+
+---
+
+## ▸ `cat /proc/philosophy`
+
+```python
+#!/usr/bin/env python3
+"""
+/proc/philosophy — runtime beliefs
+Read-only. Updated through experience, not preference.
+"""
+
+class Itachi:
+    """
+    A mind that refuses to accept systems as black boxes.
+    """
+
+    PRINCIPLES = {
+        "precision":      "Every line has purpose. Decoration is a warning sign.",
+        "transparency":   "If a system can't be understood, it can't be trusted.",
+        "documentation":  "Future-you deserves to know what present-you figured out.",
+        "iteration":      "Version 1 is supposed to be wrong. Ship. Learn. Refine.",
+        "depth":          "Go one level deeper than you think you need to.",
+    }
+
+    REJECTS = [
+        "cargo-cult configuration",
+        "tools you can't explain",
+        "complexity that serves the author, not the reader",
+        "giving up before reading the source",
+    ]
+
+    @staticmethod
+    def approach(problem: str) -> str:
+        return (
+            f"1. Observe {problem} without assumptions\n"
+            f"2. Form a model\n"
+            f"3. Break it intentionally\n"
+            f"4. Rebuild with understanding\n"
+            f"5. Document what you learned"
+        )
+
+    def __repr__(self):
+        return "minimal + focused + consistent"
+
+
+self = Itachi()
+```
+
+---
+
+## ▸ `dmesg | tail`
+
+```
+[    0.000000] Booting Linux 6.x
+[    0.012341] Mounting /knowledge — read-write
+[    0.024891] Loading module: curiosity.ko — OK
+[    0.038120] Loading module: patience.ko  — OK
+[    0.051337] Loading module: systems.ko   — OK
+[    0.063984] /dev/procrastination: not found (good)
+[    0.078200] Terminal session established
+[    0.091501] All systems nominal
+[    ∞.∞∞∞∞∞∞] Still learning...
+```
+
+---
+
+<div align="center">
+
+### `systemctl --user status life.service`
+
+```
+● life.service — Itachi's Operating Runtime
+   Loaded: loaded (/etc/systemd/user/life.service)
+   Active: active (running) — and always iterating
+ Main PID: [REDACTED]
+   CGroup: /user.slice/itachi
+           └─ curiosity    [running]
+           └─ discipline   [running]
+           └─ open_source  [running]
+           └─ sleep        [occasionally]
+```
+
+*"The quieter you become, the more you can hear."*
+
+---
+
+**Minimal. Focused. Consistent.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=itachi-re&color=58a6ff&style=for-the-badge)
 ![MoeCounter](https://count.getloli.com/@itachi?name=itachi&theme=rule34&padding=5&offset=30&align=center&scale=2&pixelated=0&darkmode=auto&prefix=9876)
 
 </div>
