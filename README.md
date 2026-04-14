@@ -112,7 +112,7 @@ I live at the intersection of **understanding** and **building** — where readi
 │  SYSTEM CONFIGURATION                                   │
 ├──────────────────┬──────────────────────────────────────┤
 │  OS              │  openSUSE Tumbleweed · Arch · Kali   │
-│  Kernel          │  Linux 6.x (mainline)                │
+│  Kernel          │  Linux 7.x (mainline)                │
 │  Shell           │  Zsh  ·  Bash                        │
 │  WM / DE         │  Hyprland  ·  Sway  ·  KDE Plasma    │
 │  Terminal        │  Ghostty  ·  Konsole  ·  Alacritty   │
@@ -225,7 +225,9 @@ echo "Automation should make you faster, not dependent."
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itachi-re&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itachi-re&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itachi-re&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-itachi.vercel.app/api?username=itachi-re&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
+![Top Languages](https://github-readme-stats-itachi.vercel.app/api/top-langs/?username=itachi-re&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itachi-re&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itachi-re&bg_color=00000000&color=FFD700&line=FFD700&point=FFD700&hide_border=true)
