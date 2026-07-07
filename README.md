@@ -108,6 +108,9 @@ I live at the intersection of **understanding** and **building** — where readi
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Ventoy](https://img.shields.io/badge/Ventoy-1B7FBF?style=for-the-badge&logo=ventoy&logoColor=white)
+![rEFInd](https://img.shields.io/badge/rEFInd-8A2BE2?style=for-the-badge&logo=refind&logoColor=white)
+![systemd--boot](https://img.shields.io/badge/systemd--boot-1A1A1A?style=for-the-badge&logo=linux&logoColor=white)
 
 ### Daily Driver Stack
 
