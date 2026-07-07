@@ -152,6 +152,25 @@ I live at the intersection of **understanding** and **building** — where readi
 
 ---
 
+## ▸ `apt list --upgradable`
+
+```
+[LANGUAGES TO LEARN]
+
+  ► Rust ................................. queued        — systems + memory safety
+  ► Go .................................... queued        — concurrency, tooling
+  ► Assembly (x86-64) ..................... in_progress   — closer to the metal
+  ► Zig .................................... exploring     — alternative to C
+
+[WHY]
+  → Rust:      modern systems programming without the footguns
+  → Go:        widely used in infra/container tooling, worth fluency
+  → Assembly:  can't claim "low-level" without reading the actual instructions
+  → Zig:       curious how it reframes what C tries to solve
+```
+
+---
+
 ## ▸ `ls -la ./projects`
 
 <details>
@@ -222,6 +241,49 @@ echo "Automation should make you faster, not dependent."
 
 </details>
 
+<details>
+<summary><b>🌱 learn-freebsd</b> — <i>FreeBSD onboarding repo for experienced Linux users</i></summary>
+
+```yaml
+repo:     github.com/itachi-re/learn-freebsd
+status:   in_progress
+phases:   00-16
+
+structure:
+  00-03:    fully written — install, base system, ports/pkg, jails intro
+  04-16:    structured stubs — networking, ZFS, ABI compat, ...
+
+audience: >
+  Linux power users who want the "what's actually different"
+  view, not a beginner OS tutorial.
+
+philosophy: >
+  Don't relearn Unix. Learn where FreeBSD diverges,
+  and why those divergences exist.
+```
+
+</details>
+
+<details>
+<summary><b>📱 android-modding-notes</b> — <i>Deep-dive reference on the 2026 root/patch stack</i></summary>
+
+```yaml
+repo:     github.com/itachi-re/android-modding-notes
+status:   ongoing
+
+covers:
+  - FolkPatch · KernelSU · Magisk · Zygisk
+  - Play Integrity spoofing
+  - Keystore / keybox tooling
+  - Root stack architecture (2026 landscape)
+
+philosophy: >
+  Root isn't a hack — it's understanding what the
+  OS was hiding from you in the first place.
+```
+
+</details>
+
 ---
 
 ## ▸ `htop: activity`
@@ -240,6 +302,23 @@ echo "Automation should make you faster, not dependent."
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itachi-re&bg_color=00000000&color=FFD700&line=FFD700&point=FFD700&hide_border=true)
 
 </div>
+
+---
+
+## ▸ `crontab -l`
+
+```bash
+# m h  dom mon dow   command
+  0  6  *   *   *    read_one_kernel_commit.sh
+  0  9  *   *   1    review_open_obs_packages.sh
+  0 20  *   *   *    write_daily_notes.sh --topic=today
+  0 22  *   *   0    audit_dotfiles.sh --check-drift
+  *  *  *   *   *    stay_curious.sh --no-exit
+
+# crontab philosophy:
+#   consistency > intensity
+#   small daily reps compound into deep understanding
+```
 
 ---
 
@@ -320,7 +399,7 @@ self = Itachi()
            └─ curiosity    [running]
            └─ discipline   [running]
            └─ open_source  [running]
-           └─ sleep        [occasionally]
+             └─ sleep        [occasionally]
 ```
 
 *"The quieter you become, the more you can hear."*
