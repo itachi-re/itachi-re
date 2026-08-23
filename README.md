@@ -30,7 +30,7 @@ Linux mind 7.x #1 SMP x86_64 | philosophy: minimal, focused, consistent
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white)](https://gitlab.com/itachi_re)
 [![Codeberg](https://img.shields.io/badge/Codeberg-4293D1?logo=codeberg&logoColor=white)](https://codeberg.org/itachi-re)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/itachi_re)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:xanbenson99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white)](mailto:itachi_re@protonmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/ulquiorracifer9)
 
 </div>
