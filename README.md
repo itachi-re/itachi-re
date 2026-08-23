@@ -88,29 +88,55 @@ I live at the intersection of **understanding** and **building** — where readi
 
 ### Platforms & OS
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![openSUSE](https://img.shields.io/badge/openSUSE-0B722C?style=for-the-badge&logo=openSUSE&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-0D47A1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0E4C75?style=for-the-badge&logo=kali-linux&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-990000?style=for-the-badge&logo=freebsd&logoColor=AB2B28)
-![Docker](https://img.shields.io/badge/Docker-0B3D91?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Android](https://img.shields.io/badge/Android-0B8043?style=for-the-badge&logo=android&logoColor=white)
-![LineageOS](https://img.shields.io/badge/LineageOS-005F3C?style=for-the-badge&logo=lineageos&logoColor=80CB6F)
-![GrapheneOS](https://img.shields.io/badge/GrapheneOS-1A1A1A?style=for-the-badge&logo=grapheneos&logoColor=00FF9C)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.kernel.org)
+[![openSUSE](https://img.shields.io/badge/openSUSE-0B722C?style=for-the-badge&logo=openSUSE&logoColor=white)](https://www.opensuse.org)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-0D47A1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-0E4C75?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-990000?style=for-the-badge&logo=freebsd&logoColor=AB2B28)](https://www.freebsd.org)
+[![Docker](https://img.shields.io/badge/Docker-0B3D91?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com)
+[![Android](https://img.shields.io/badge/Android-0B8043?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
+[![LineageOS](https://img.shields.io/badge/LineageOS-005F3C?style=for-the-badge&logo=lineageos&logoColor=80CB6F)](https://lineageos.org)
+[![GrapheneOS](https://img.shields.io/badge/GrapheneOS-1A1A1A?style=for-the-badge&logo=grapheneos&logoColor=00FF9C)](https://grapheneos.org)
 
 ### Languages & Tools
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-4B3263?style=for-the-badge&logo=gnu&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Ventoy](https://img.shields.io/badge/Ventoy-1B7FBF?style=for-the-badge&logo=ventoy&logoColor=white)
-![rEFInd](https://img.shields.io/badge/rEFInd-8A2BE2?style=for-the-badge&logo=refind&logoColor=white)
-![systemd--boot](https://img.shields.io/badge/systemd--boot-1A1A1A?style=for-the-badge&logo=linux&logoColor=white)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![GCC](https://img.shields.io/badge/GCC-4B3263?style=for-the-badge&logo=gnu&logoColor=white)](https://gcc.gnu.org)
+[![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)
+[![Ventoy](https://img.shields.io/badge/Ventoy-1B7FBF?style=for-the-badge&logo=ventoy&logoColor=white)](https://www.ventoy.net)
+[![rEFInd](https://img.shields.io/badge/rEFInd-8A2BE2?style=for-the-badge&logo=refind&logoColor=white)](https://www.rodsbooks.com/refind/)
+[![systemd-boot](https://img.shields.io/badge/systemd--boot-1A1A1A?style=for-the-badge&logo=linux&logoColor=white)](https://www.freedesktop.org/wiki/Software/systemd/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)](https://github.com/tmux/tmux)
+[![GNU Stow](https://img.shields.io/badge/GNU_Stow-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/stow/)
+[![Btrfs](https://img.shields.io/badge/Btrfs-2C3E50?style=for-the-badge&logo=linux&logoColor=white)](https://btrfs.readthedocs.io)
+[![RPM](https://img.shields.io/badge/RPM-D2232A?style=for-the-badge&logo=redhat&logoColor=white)](https://rpm.org)
+
+### Networking, VPN & Security
+
+[![NetBird](https://img.shields.io/badge/NetBird-0A0F1E?style=for-the-badge&logoColor=white)](https://netbird.io)
+[![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)](https://tailscale.com)
+[![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)](https://www.wireguard.com)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![nftables](https://img.shields.io/badge/nftables-4B5A2F?style=for-the-badge&logoColor=white)](https://netfilter.org/projects/nftables/)
+[![Nmap](https://img.shields.io/badge/Nmap-3E7DB9?style=for-the-badge&logoColor=white)](https://nmap.org)
+[![Netcat](https://img.shields.io/badge/Netcat_(nc)-2D2D2D?style=for-the-badge&logoColor=white)](http://nc110.sourceforge.net/)
+[![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)](https://openwrt.org)
+[![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)](https://pi-hole.net)
+
+### Reverse Engineering & CTF
+
+[![Ghidra](https://img.shields.io/badge/Ghidra-2D2D2D?style=for-the-badge&logoColor=white)](https://ghidra-sre.org)
+[![GDB](https://img.shields.io/badge/GDB-6E4C13?style=for-the-badge&logo=gnu&logoColor=white)](https://www.sourceware.org/gdb/)
+[![radare2](https://img.shields.io/badge/radare2-000000?style=for-the-badge&logoColor=white)](https://rada.re/n/)
+[![Cutter](https://img.shields.io/badge/Cutter-1B1B1B?style=for-the-badge&logoColor=white)](https://cutter.re)
+[![picoCTF](https://img.shields.io/badge/picoCTF-1F2937?style=for-the-badge&logoColor=white)](https://picoctf.org)
 
 ### Daily Driver Stack
 
