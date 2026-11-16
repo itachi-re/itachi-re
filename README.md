@@ -130,6 +130,18 @@ I live at the intersection of **understanding** and **building** — where readi
 [![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)](https://openwrt.org)
 [![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)](https://pi-hole.net)
 
+### Password Management & Privacy
+
+[![KeePassXC](https://img.shields.io/badge/KeePassXC-6CAC4D?style=for-the-badge&logo=keepassxc&logoColor=white)](https://keepassxc.org)
+[![KeePassDX](https://img.shields.io/badge/KeePassDX-3B7A2A?style=for-the-badge&logo=keepassxc&logoColor=white)](https://www.keepassdx.com)
+[![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)](https://bitwarden.com)
+[![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](https://proton.me/mail)
+[![Proton VPN](https://img.shields.io/badge/Proton_VPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white)](https://protonvpn.com)
+[![GnuPG](https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://gnupg.org)
+[![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)](https://www.torproject.org)
+[![Syncthing](https://img.shields.io/badge/Syncthing-0891D1?style=for-the-badge&logo=syncthing&logoColor=white)](https://syncthing.net)
+[![Cryptomator](https://img.shields.io/badge/Cryptomator-49B04A?style=for-the-badge&logo=cryptomator&logoColor=white)](https://cryptomator.org)
+
 ### Reverse Engineering & CTF
 
 [![Ghidra](https://img.shields.io/badge/Ghidra-2D2D2D?style=for-the-badge&logoColor=white)](https://ghidra-sre.org)
